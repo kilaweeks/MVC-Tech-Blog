@@ -5,7 +5,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tech Blog</title>
-  <link rel="stylesheet" href="/stylesheets/style.css">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -13,12 +15,12 @@
     <header>
       <div>
         <nav>
-          <a href="/">All Posts</a>
-          <a href="/dashboard">My Posts</a>
+          <a href="/">Home</a>
+          <a href="/dashboard">Dashboard</a>
           {{#if loggedIn}}
           <a href="/" id="logout">Logout</a>
           {{else}}
-          <a href="/login">Login</a>
+          <a href="/login">Login/Signup</a>
           {{/if}}
         </nav>
       </div>
