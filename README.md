@@ -3,7 +3,7 @@
 ## Description
 This application uses the Model-View-Controller paradign to create a blog website where users can create a login, make and edit posts, view and comment on others' posts. 
 
-- [Deployed Website](https://kilaweeks.github.io/MVC-Tech-Blog/)
+- [Website](https://kilaweeks.github.io/MVC-Tech-Blog/)
 - [Link to Heroku](https://whispering-plateau-10963.herokuapp.com/)
 
 ## Images
