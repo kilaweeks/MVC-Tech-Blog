@@ -9,8 +9,8 @@ This application uses the Model-View-Controller paradign to create a blog websit
 ## Images
 
 ![screenshot](public/images/techblog-1.png)
-![screenshot](public/images/techblog-2.png)
 ![screenshot](public/images/techblog-3.png)
+![screenshot](public/images/techblog-2.png)
 ![screenshot](public/images/techblog-4.png)
 
 ## Technologies
